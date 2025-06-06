@@ -1,6 +1,6 @@
 # PINO Surrogate for Reservoir Simulation
 
-A physics-informed neural operator (PINO) surrogate model for reservoir simulation, developed by Bjørn Egil Ludvigsen at Aker BP.
+A physics-informed neural operator (PINO) surrogate model for reservoir simulation.
 
 ## Overview
 
