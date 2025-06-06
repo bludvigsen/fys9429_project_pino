@@ -1,0 +1,24 @@
+# Core dependencies
+numpy>=1.24.0,<2.0.0
+torch>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+PyQt6>=6.4.0
+PyQt6-WebEngine>=6.4.0  # Required for interactive HTML/web content
+
+# Data processing
+pandas>=2.0.0
+numpy.typing>=0.1.0
+
+# Visualization
+plotly>=5.14.0  # Interactive plots
+resdata>=2.0.0  # Eclipse file reader (replacement for libecl)
+vtk>=9.2.0      # Optional for advanced 3D visualization
+scipy>=1.10.0   # Required for numerical operations
+
+# Development dependencies
+pytest>=7.3.0
+black>=23.3.0
+isort>=5.12.0
+flake8>=6.0.0
+mypy>=1.3.0 
