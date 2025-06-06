@@ -1,5 +1,7 @@
 # WARNING: UNDER HEAVY CONSTRUCTION!
 
+This code is currently just a basis for a future software system for using PINOs with reservoir simulation models. Most source files are placeholders while some can be used independently. 
+
 
 
 # PINO Surrogate for Reservoir Simulation
