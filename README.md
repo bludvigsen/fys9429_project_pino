@@ -1,6 +1,6 @@
 # WARNING: UNDER HEAVY CONSTRUCTION!
 
-This code is currently just a basis for a future software system for using PINOs with reservoir simulation models. Most source files are placeholders while some can be used independently. 
+This code is currently just a basis for possible future software for using PINOs with reservoir simulation models. Most source files are placeholders while some can and are being used independently together with solutions developed by NVIDIA at https://github.com/NVIDIA/physicsnemo-sym/tree/main/examples/reservoir_simulation/Norne.
 
 
 
